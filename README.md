@@ -1,0 +1,2 @@
+# hujin.github.com
+blog
